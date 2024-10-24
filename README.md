@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Uzrakhan
 - 👀 I’m interested in Frontend Development.
-- 🌱 I’m currently learning HTML and CSS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me At LinkedIn
+- 🌱 I’m currently learning Javascript.
+- 📫 How to reach me At LinkedIn: www.linkedin.com/in/uzra-khan-40b472272
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
