@@ -4,8 +4,8 @@
 
 I'm a passionate developer with a keen interest in web development, open-source projects, and learning new technologies. I enjoy solving complex problems and building innovative solutions.
 
-- 🔭 I’m currently working on Xpense App.
-- 🌱 I’m currently learning Javascript and vanilla JS.
+- 🔭 I’m currently working on E-commerce Store.
+- 🌱 I’m currently learning ReactJS.
 - 👯 I’m looking to collaborate on projects that would provide value and learning to me.
 - 🤔 I’m looking for help with React.
 - 📫 How to reach me: uzrakhan539@gmail.com
