@@ -34,6 +34,7 @@ Here are some of my notable projects:
 
 - Xpense App () - An expense tracker app which takes data, stores it and provides visualization using charts for the data.
 - Two Good Clone App(Link to Project Repository) - Brief description of the project.
+- Todo List App
 
 ## Connect with Me
 
