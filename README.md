@@ -1,24 +1,42 @@
 # Hi there, I'm Uzrakhan! 👋
 
-## About Me
+## Summary & Focus
 
-I'm a passionate developer with a keen interest in web development, open-source projects, and learning new technologies. I enjoy solving complex problems and building innovative solutions.
+I'm a Results-driven Full-Stack Developer specializing in React, TypeScript, and the MERN stack. My primary focus is on building intuitive UIs and high-performance, low-latency real-time systems.
+I have a proven ability to optimize architectures, achieving a 99 Lighthouse Performance Score and maintaining 14.53 ms latency under multi-user load. I enjoy solving complex problems and contributing to open-source projects.
 
-- 🔭 I’m currently collaborating in an open-source project called formly.
-- 🌱 I’m currently learning NextJS.
-- 👯 I’m looking to collaborate on projects that would provide value and learning to me.
-- 🤔 I’m looking for help with React.
-- 📫 How to reach me: uzrakhan539@gmail.com
+## Technical Toolkit  🛠️
+Here are the key technologies and tools I work with:
+- Frontend: React , TypeScript , Tailwind CSS.
+- Backend & Real-Time: Node.js, Express , and Socket.io for real-time synchronization.
+- Database: MongoDB.
+- Other Tools: Git, Postman.
 
-## Skills
+## Featured Projects
+1. IdeaBoard: Real-Time Collaborative Whiteboard
+- Tech Stack: TypeScript, React, Tailwind CSS, Socket.io.
+- Key Achievements:
+  a. Built a collaborative whiteboard with instant drawing synchronization.
+  b. Architected a scalable backend maintaining 14.53 ms latency under multi-user load.
+  c. Optimized rendering and achieved a 99 Lighthouse Performance Score.
+  d. Implemented automated backend tests to improve stability.
+- Live: https://idea-board-virid.vercel.app/ | Github: https://github.com/Uzrakhan/IdeaBoard
 
-Here are some of the technologies and tools I work with:
+2. Tomato Food App (Zomato Clone)
+- Tech Stack: React, Tailwind CSS, Firebase.
+- Key Achievements:
+  a. Integrated Firebase authentication, reducing implementation time by 30%.
+  b. Achieved 99.9% session reliability using protected routing.
+  c. Optimized client-side filtering for 32+ restaurants with updates under 85 ms.
+- Live: https://tomato-food-app-two.vercel.app/ | Github: https://github.com/Uzrakhan/Tomato-food-app
 
-- Programming Languages: Javascript and vanilla JS.
-- Front-end Development: React.js, Typescript
-- Back-end Development: Node.js, Express.js
-- Databases: MongoDB
-- Other Tools: Version control systems like Git. Postman.
+3. Open-Source Contribution: Formly
+- Project: Formly (Accessible form components library).
+- Tech Stack: TypeScript, React, Framer Motion.
+- Contribution:
+  a. Developed accessible form components, achieving a Lighthouse Accessibility Score 81.
+  b. Contributed 3 merged pull requests adding responsive layouts and new features.
+- Github: https://github.com/animesh65432/formly
 
 ## GitHub Stats
 
@@ -28,18 +46,12 @@ Here are some of the technologies and tools I work with:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzrakhan&layout=compact&theme=radical)
 
-## Projects
 
-Here are some of my notable projects:
+## Get in Touch
+I'm available for new projects and looking to collaborate on projects that would provide value and learning.
 
-- Tomato Food App (https://github.com/Uzrakhan/Tomato-food-app) - The Tomato Food App is a Zomato-inspired platform with dynamic restaurant listings, filter options,a responsive, mobile-friendly UI for easy food exploration.Authentication using email/password and Google sign-in also implemented.
-- E-Commerce Store(https://github.com/Uzrakhan/E-commerce-store-React) - The E-commerce React App is a dynamic platform featuring real-time product listings, robust sort and filter options for seamless product discovery, and an intuitive add-to-cart functionality. With its responsive design and interactive interface, it provides an engaging shopping experience for users.
+- Email: uzrakhan539@gmail.com
+- Portfolio: https://portfolio-nq72.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/uzra-khan-40b472272/
 
-OPEN-SOURCE CONTRIBUTION
-- Formly (https://github.com/animesh65432/formly)- A web app to create forms in an easy and quick way than Google forms.
-## Connect with Me
-
-- My LinkedIn - https://www.linkedin.com/in/uzra-khan-40b472272/
-- My Email - uzrakhan539@gmail.com
-
-Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just want to connect. 😊
+Thank you for visiting! 😊
