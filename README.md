@@ -16,6 +16,7 @@ Here are the key technologies and tools I work with:
 **1. IdeaBoard: Real-Time Collaborative Whiteboard**
 - **Tech Stack**: TypeScript, React, Tailwind CSS, Socket.io.
 - **Key Achievements**:
+- 
   a. Built a collaborative whiteboard with **instant drawing synchronization**.
   
   b. Architected a scalable backend maintaining **14.53 ms latency** under multi-user load.
@@ -29,17 +30,24 @@ Here are the key technologies and tools I work with:
 **2. Tomato Food App (Zomato Clone)**
 - **Tech Stack**: React, Tailwind CSS, Firebase.
 - **Key Achievements**:
+  
   a. Integrated Firebase authentication, **reducing implementation time by 30%**.
+  
   b. Achieved **99.9% session reliability** using protected routing.
+  
   c. Optimized client-side filtering for 32+ restaurants with updates under 85 ms.
+  
 - Live: https://tomato-food-app-two.vercel.app/ | Github: https://github.com/Uzrakhan/Tomato-food-app
 
 **3. Open-Source Contribution: Formly**
 - **Project**: Formly (Accessible form components library).
 - **Tech Stack**: TypeScript, React, Framer Motion.
 - Contribution:
+  
   a. Developed accessible form components, achieving a Lighthouse **Accessibility Score 81**.
+  
   b. Contributed **3 merged pull requests** adding responsive layouts and new features.
+  
 - Github: https://github.com/animesh65432/formly
 
 ## GitHub Stats
