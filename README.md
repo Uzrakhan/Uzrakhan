@@ -17,9 +17,13 @@ Here are the key technologies and tools I work with:
 - **Tech Stack**: TypeScript, React, Tailwind CSS, Socket.io.
 - **Key Achievements**:
   a. Built a collaborative whiteboard with **instant drawing synchronization**.
+  
   b. Architected a scalable backend maintaining **14.53 ms latency** under multi-user load.
+  
   c. Optimized rendering and achieved a **99 Lighthouse Performance Score**.
+  
   d. Implemented automated backend tests to improve stability.
+  
 - Live: https://idea-board-virid.vercel.app/ | Github: https://github.com/Uzrakhan/IdeaBoard
 
 **2. Tomato Food App (Zomato Clone)**
